@@ -16,7 +16,7 @@ Alysson-Araujo
 
 <br>
 
-#### Hi, my name is Alysson and i am student the Computer Science in Federal University of Ceará (in portuguese, Universidade Federal do Ceará - UFC) Campus Quixadá. My focus is  Development Web BackEnd and actualy i am studying Dev FullStack, but this is a complement to my knowledge, in case the frontend for me is something extra for now. 
+#### Hi, my name is Alysson Araújo and i am student the Computer Science in Federal University of Ceará (in portuguese, Universidade Federal do Ceará - UFC) Campus Quixadá. My focus is  Development Web BackEnd and actualy i am studying Dev FullStack, but this is a complement to my knowledge, in case the frontend for me is something extra for now. 
 
 <br>
 
@@ -30,7 +30,7 @@ Alysson-Araujo
 
 <br>
 
-#### Oi, meu nome é Alysson e sou estudante de Ciência da Computação na Universidade Federal do Ceará (ufa), Campus Quixadá. Meu foco é o Desenvolvimento Web BackEnd e estou estudando Dev FullStack, mas isso é um complemento ao meu conhecimento, no caso do frontend para mim é algo extra por enquanto. 
+#### Oi, meu nome é Alysson Araújo e sou estudante de Ciência da Computação na Universidade Federal do Ceará (ufa), Campus Quixadá. Meu foco é o Desenvolvimento Web BackEnd e estou estudando Dev FullStack, mas isso é um complemento ao meu conhecimento, no caso do frontend para mim é algo extra por enquanto. 
 
 <br>
 
