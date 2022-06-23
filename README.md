@@ -12,6 +12,34 @@ Alysson-Araujo
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+
+<br>
+
+#### Hi, my name is Alysson and i am student the Computer Science in Federal University of Ceará (in portuguese, Universidade Federal do Ceará - UFC) Campus Quixadá. My focus is  Development Web BackEnd and actualy i am studying Dev FullStack, but this is a complement to my knowledge, in case the frontend for me is something extra for now. 
+
+<br>
+
+#### My level with the language english (writing and reading) is medium. 
+
+#### My level the listening in conversations in english it's beginner, but i am studying to up my level in the english.
+
+##
+
+## Sobre mim
+
+<br>
+
+#### Oi, meu nome é Alysson e sou estudante de Ciência da Computação na Universidade Federal do Ceará (ufa), Campus Quixadá. Meu foco é o Desenvolvimento Web BackEnd e estou estudando Dev FullStack, mas isso é um complemento ao meu conhecimento, no caso do frontend para mim é algo extra por enquanto. 
+
+<br>
+
+#### Meu nível com o idioma inglês (escrita e leitura) é médio. 
+
+#### Meu nível de escuta em conversas em inglês é iniciante, mas estou estudando para aumentar meu nível em inglês.
+
+<br>
+<br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alysson-Araujo&show_icons=true&theme=tokyonight">
