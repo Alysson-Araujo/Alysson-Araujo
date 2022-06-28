@@ -18,7 +18,7 @@ Alysson-Araujo
 
 <br>
 
-#### My level with the language english (writing and reading) is medium. 
+#### My level with the English language (writing and reading) is beginner.
 
 #### My level the listening in conversations in english it's beginner, but i am studying to up my level in the english.
 
@@ -30,7 +30,7 @@ Alysson-Araujo
 
 <br>
 
-#### Meu nível com o idioma inglês (escrita e leitura) é médio. 
+#### Meu nível com o idioma inglês (escrita e leitura) é iniciante.
 
 #### Meu nível de escuta em conversas em inglês é iniciante, mas estou estudando para aumentar meu nível em inglês.
 
