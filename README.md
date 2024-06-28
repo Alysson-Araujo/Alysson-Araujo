@@ -14,25 +14,13 @@ Alysson-Araujo
 -->
 ## About me
 
-#### Hi, my name is Alysson Araújo and i am student the Computer Science in Federal University of Ceará (in portuguese, Universidade Federal do Ceará - UFC) Campus Quixadá. My focus is  Development Web BackEnd and actualy i am studying Dev FullStack, but this is a complement to my knowledge, in case the frontend for me is something extra for now. 
+#### Hi guys, how are you? My name is Alysson, I'm a Web Developer and DevSecOps. I have a degree in Computer Science from the Federal University of Ceará. Currently, I am looking for a job opportunity in the Web development area. In this github profile, there are some projects that I have done as studies over the last 5 years.
 
 <br>
 
-#### My level with the English language (writing and reading) is beginner.
+#### My level with the English language (writing and reading) is intermediary.
 
-#### My level the listening in conversations in english it's beginner, but i am studying to up my level in the english.
-
-#
-
-## Sobre mim
-
-#### Opa e aí, eu me chamo Alysson Araújo e sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC), Campus Quixadá. Meu foco é o Desenvolvimento Web BackEnd e atualmente estou estudando Dev FullStack, mas isso é um complemento ao meu conhecimento, no caso do frontend para mim é algo extra por enquanto. 
-
-<br>
-
-#### Meu nível com o idioma inglês (escrita e leitura) é iniciante.
-
-#### Meu nível de escuta em conversas em inglês é iniciante, mas estou estudando para aumentar meu nível em inglês.
+#### My level the listening in conversations in english it's intermediary, but i am studying to up my level in the english.
 
 <br>
 <br>
