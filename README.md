@@ -14,7 +14,7 @@ Alysson-Araujo
 -->
 ## About me
 
-#### Hi guys, how are you? My name is Alysson, I'm a Web Developer and DevSecOps. I have a degree in Computer Science from the Federal University of Ceará. Currently, I am looking for a job opportunity in the Web development area. In this github profile, there are some projects that I have done as studies over the last 5 years.
+#### Hi guys, how are you? My name is Alysson, I'm a Backend Developer and DevSecOps. I have a degree in Computer Science from the Federal University of Ceará. Currently, I am looking for a job opportunity in the Web development area. In this github profile, there are some projects that I have done as studies over the last 6 years.
 
 <br>
 
@@ -54,7 +54,7 @@ Alysson-Araujo
   <a href="mailto:alyssonaraujo@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
-  <a href="mailto:alyssonaraujo@alu.ufc.br" target="_blank">
+  <a href="mailto:alyssonaraujowork@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
