@@ -29,7 +29,7 @@ I am currently developing an ordering platform using microservices architecture.
 <br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alysson-Araujo&show_icons=true&theme=tokyonight">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-Araujo&layout=compact&theme=tokyonight">
 </div>
 
