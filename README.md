@@ -12,18 +12,20 @@ Alysson-Araujo
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About me
+# About Me  
+Hi there! My name is Alysson, and I'm a passionate **Backend Developer** and **DevSecOps Engineer**. I hold a degree in **Computer Science** from the Federal University of Ceará, and I have been dedicated to developing software for over six years.  
 
-#### Hi guys, how are you? My name is Alysson, I'm a Backend Developer and DevSecOps. I have a degree in Computer Science from the Federal University of Ceará. Currently, I am looking for a job opportunity in the Web development area. In this github profile, there are some projects that I have done as studies over the last 6 years.
+I'm particularly interested in **Web Development**, with a focus on building scalable, secure, and efficient systems. Currently, I am working on an **ordering platform** based on **microservices architecture**, using technologies like Java, Spring Boot, RabbitMQ, Docker, and PostgreSQL. You can check out the project [here](#).
 
-<br>
+## Skills  
+- **Programming Languages:** Java, Python, TypeScript, Node.js  
+- **Frameworks and Tools:** Spring Boot, Django, React.js, NestJS  
+- **Cloud Platforms:** AWS (Certified Cloud Practitioner)  
+- **DevOps:** Docker, Kubernetes, CI/CD  
+- **Databases:** PostgreSQL, MongoDB  
 
-#### My level with the English language (writing and reading) is intermediary.
-
-#### My level the listening in conversations in english it's intermediary, but i am studying to up my level in the english.
-
-I am currently developing an ordering platform using microservices architecture. The project [Link](https://github.com/users/Alysson-Araujo/projects/5/views/1)
-
+## Language Skills  
+I have an **intermediate level of English**, particularly in reading and writing, and I am actively improving my listening and speaking skills to enhance my fluency.  
 
 <br>
 <br>
