@@ -15,7 +15,10 @@ Alysson-Araujo
 # About Me  
 Hi there! My name is Alysson, and I'm a passionate **Backend Developer** and **DevSecOps Engineer**. I hold a degree in **Computer Science** from the Federal University of Ceará, and I have been dedicated to developing software for over six years.  
 
-I'm particularly interested in **Web Development**, with a focus on building scalable, secure, and efficient systems. Currently, I am working on an **ordering platform** based on **microservices architecture**, using technologies like Java, Spring Boot, RabbitMQ, Docker, and PostgreSQL. You can check out the project [Link](https://github.com/users/Alysson-Araujo/projects/5/views/1).
+I'm particularly interested in **Web Development**, with a focus on building scalable, secure, and efficient systems. 
+<!--
+Currently, I am working on an **ordering platform** based on **microservices architecture**, using technologies like Java, Spring Boot, RabbitMQ, Docker, and PostgreSQL. You can check out the project [Link](https://github.com/users/Alysson-Araujo/projects/5/views/1).
+-->
 
 ## Skills  
 - **Programming Languages:** Java, Python, TypeScript, Node.js  
