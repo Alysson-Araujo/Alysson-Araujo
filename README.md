@@ -19,10 +19,11 @@ I'm particularly interested in **Web Development**, with a focus on building sca
 <!--
 Currently, I am working on an **ordering platform** based on **microservices architecture**, using technologies like Java, Spring Boot, RabbitMQ, Docker, and PostgreSQL. You can check out the project [Link](https://github.com/users/Alysson-Araujo/projects/5/views/1).
 -->
+Currently, I am studying data engineering focused on the AWS environment (Redshift, S3, EC2 and other services) and I am studying C# focused on QA and cloud computing.
 
 ## Skills  
-- **Programming Languages:** Java, Python, TypeScript, Node.js  
-- **Frameworks and Tools:** Spring Boot, Django, React.js, NestJS  
+- **Programming Languages:** Java, Python, TypeScript, C#
+- **Frameworks and Tools:** Spring Boot, Django, React.js, DOTNET  
 - **Cloud Platforms:** AWS (Certified Cloud Practitioner)  
 - **DevOps:** Docker, Kubernetes, CI/CD  
 - **Databases:** PostgreSQL, MongoDB  
