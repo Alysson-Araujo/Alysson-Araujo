@@ -1,72 +1,68 @@
-<!--
-**Alysson-Araujo/Alysson-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alysson Araújo
 
-Here are some ideas to get you started:
-Alysson-Araujo
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# About Me  
-Hi there! My name is Alysson, and I'm a passionate **Backend Developer** and **DevSecOps Engineer**. I hold a degree in **Computer Science** from the Federal University of Ceará, and I have been dedicated to developing software for over six years.  
+Desenvolvedor **Backend** com experiência em APIs REST, aplicações distribuídas e arquitetura de sistemas usando Java com Spring Boot e Node.js com NestJS. Tenho atuação com PostgreSQL, Docker, AWS, RabbitMQ, testes automatizados e CI/CD, sempre com foco em performance, segurança e escalabilidade.
 
-I'm particularly interested in **Web Development**, with a focus on building scalable, secure, and efficient systems. 
-<!--
-Currently, I am working on an **ordering platform** based on **microservices architecture**, using technologies like Java, Spring Boot, RabbitMQ, Docker, and PostgreSQL. You can check out the project [Link](https://github.com/users/Alysson-Araujo/projects/5/views/1).
--->
-Currently, I am studying data engineering focused on the AWS environment (Redshift, S3, EC2 and other services) and I am studying C# focused on QA and cloud computing.
+## About me
 
-## Skills  
-- **Programming Languages:** Java, Python, TypeScript, C#
-- **Frameworks and Tools:** Spring Boot, Django, React.js, DOTNET  
-- **Cloud Platforms:** AWS (Certified Cloud Practitioner)  
-- **DevOps:** Docker, Kubernetes, CI/CD  
-- **Databases:** PostgreSQL, MongoDB  
+Sou bacharel em Ciência da Computação pela Universidade Federal do Ceará (UFC) e venho construindo minha trajetória em backend, cloud e engenharia de software por meio de estágios, projetos práticos e trabalho freelance. Também possuo a certificação **AWS Certified Cloud Practitioner** e utilizo IA como apoio no desenvolvimento, análise de erros e melhoria da qualidade do código.  
 
-## Language Skills  
-I have an **intermediate level of English**, particularly in reading and writing, and I am actively improving my listening and speaking skills to enhance my fluency.  
+## Experience highlights
 
-<br>
-<br>
+- Desenvolvimento de APIs RESTful com **NestJS**, **Spring Boot**, **Node.js** e **TypeScript**.
+- Integração com pagamentos via **Pix** e cartão usando **Pagar.me**.
+- Implementação de mensageria com **RabbitMQ** e processos assíncronos.
+- Modelagem e otimização de bancos **PostgreSQL**, **MongoDB** e **Redis**.
+- Deploy e gerenciamento de aplicações na **AWS** com **EC2**, **S3**, **ECR** e **RDS**.
+- Criação de pipelines de **CI/CD** com **GitHub Actions**.
+- Testes automatizados com **Jest**, **Supertest** e **JUnit**.
+- Aplicação de boas práticas como **Clean Architecture**, **SOLID** e orientação a objetos.
 
-<div>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-Araujo&layout=compact&theme=tokyonight">
-</div>
+## Featured project
 
-##
+### Observatório de Egressos
+Plataforma web desenvolvida como TCC para coleta e análise de dados de egressos do curso de Engenharia de Software da UFC.
+
+**Stack:** Node.js, TypeScript, Prisma ORM, React.js, Metabase e AWS  
+**Destaques:** autenticação, controle de acesso, dashboard analítico e deploy em EC2.
+
+## Tech stack
 
 <div style="display: inline_block"><br>
-  <img aling="center" alt="Alysson-C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img aling="center" alt="Alysson-TS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img aling="center" alt="Alysson-JAVA" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img aling="center" alt="Alysson-monogoDB" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img aling="center" alt="Alysson-sqlite" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" />
-  <img aling="center" alt="Alysson-express" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img aling="center" alt="Alysson-NODEJS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img aling="center" alt="Alysson-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
-  <img aling="center" alt="Alysson-MD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-  
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
-##
+## GitHub stats
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysson-Araujo&layout=compact&theme=tokyonight" />
+</div>
+
+## Languages
+
+- Português: nativo
+- English: intermediate (B1), with professional reading, writing and conversation skills in progress
+
+## Contact
 
 <div>
   <a href="https://www.linkedin.com/in/alysson-alexandre/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:alyssonaraujo@protonmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alyssonaraujowork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
 </div>
-
-##
